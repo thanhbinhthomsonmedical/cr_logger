@@ -40,7 +40,9 @@ dependencies:
   uuid: ^3.0.7
 
   # MIT
-  app_settings: ^6.1.1
+  app_settings:
+    git:
+      url: https://github.com/thanhbinhthomsonmedical/app_settings.git
 
   # BSD
   path_provider: ^2.1.2
